@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="a2_string" tests="1" skipped="0" failures="0" errors="0" timestamp="2022-04-08T07:22:36" hostname="IND-X6X3WY.local" time="0.013">
+  <properties/>
+  <testcase name="main()" classname="a2_string" time="0.013"/>
+  <system-out><![CDATA[----------------------------START------------------------------------------
+11
+Hello,
+My Name is Nirmal Sinh Revar
+How are you?
+Hello Nirmal, your age is 29 and your name is 6 Characters long.
+-----------------------------END-------------------------------------------
+]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>
